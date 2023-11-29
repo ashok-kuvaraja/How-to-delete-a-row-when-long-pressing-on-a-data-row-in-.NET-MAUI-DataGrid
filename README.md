@@ -1,0 +1,1 @@
+# How-to-delete-a-row-when-long-pressing-on-a-data-row-in-.NET-MAUI-DataGrid
